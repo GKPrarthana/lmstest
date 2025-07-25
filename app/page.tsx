@@ -64,7 +64,7 @@ const Index = () => {
               >Sign In</Button>
               <Button 
                 className="bg-gradient-to-r from-indigo-500 to-sky-500 hover:from-indigo-600 hover:to-sky-600 text-white font-medium py-2.5"
-                onClick={() => router.push('/sign-up')}
+                onClick={() => router.push('/sign-up/role')}
               >Get Started</Button>
             </div>
           </div>
